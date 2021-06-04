@@ -146,7 +146,7 @@ update "EPOINT"."BASEINFO" set "NAME" = '苏爱毓', "BIRTHDAY" = TIMESTAMP ' 19
 
 ## 2、启动
 
-![img](https://note.youdao.com/yws/public/resource/20f3a8c448f6bc55a6cf5818ffece8f9/xmlnote/CDCE4A2244D54340AF907989E7853C09/19892)
+![img](https://note.youdao.com/yws/public/resource/20f3a8c448f6bc55a6cf5818ffece8f9/xmlnote/EEEFAC9DDEC44A9C92ED5CFB38B8FAAA/19912)
 
 
 
